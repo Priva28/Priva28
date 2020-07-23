@@ -22,7 +22,7 @@ An activity competitions [app](https://github.com/Activity-App/App) with some ot
 
 Always learning new stuff with Apples frameworks and releasing cool stuff I create or find. Especially SwiftUI.
 
-#### Feel free to check out some cool stuff I've made: \/
+#### Feel free to check out some cool stuff I've made:  \ /
 
 
 
