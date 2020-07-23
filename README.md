@@ -2,7 +2,7 @@
 
 #### Some stuff about me:
 
-I like developing stuff especially with Swift. 👨🏻‍💻
+I like developing stuff and am most experienced with Swift. 👨🏻‍💻 🏎
 
 I like doing stuff with technology in general. 💻
 
@@ -10,7 +10,7 @@ I like using Apple products. 
 
 I won the 2020 Swift Student Challenge with my PlanetARium playground that uses SwiftUI, ARKit and ML. 🪐
 
-I know a little Python. 🐍
+I know a little bit of Python. 🐍
 
 I live in Australia. 🇦🇺
 
@@ -18,7 +18,7 @@ I live in Australia. 🇦🇺
 
 A Home Assistant client that was originally a SwiftUI experiment but I actually liked. Hopefully I release it at the end of this year or next year. 🏠 🤷‍♂️
 
-An activity competitions (app)[https://github.com/Activity-App/App] with some other WWDC scholars! 🏃
+An activity competitions [app](https://github.com/Activity-App/App) with some other WWDC scholars! 🏃
 
 Always learning new stuff with Apples frameworks and releasing cool stuff I create or find. Especially SwiftUI.
 
