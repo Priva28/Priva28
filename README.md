@@ -2,7 +2,7 @@
 
 I'm an Australian that likes to experiment with anything tech in my free time. I enjoy programming and I'm experienced with Swift 🏎 and also know a bit of Python 🐍 and Java ☕️. 
 
-I won the 2020 Swift Student Challenge with my submission named PlanetARium that used the SwiftUI and ARKit frameworks as well as some ML, check it out (as well as a few other things I've created) below.
+I won the 2020 and 2021 Swift Student Challenge with my submissions named PlanetARium and Swift3D, check them out (as well as a few other things I've created) below.
 
 <!--
 **Priva28/Priva28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
