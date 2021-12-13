@@ -6,8 +6,6 @@ I won the 2020 and 2021 Swift Student Challenge with my submissions named Planet
 
 ![Christians's GitHub stats](https://github-readme-stats.vercel.app/api?username=priva28&count_private=false)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=priva28&layout=compact)](https://github.com/priva28/github-readme-stats)
-
 <!--
 **Priva28/Priva28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
