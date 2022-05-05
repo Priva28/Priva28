@@ -1,8 +1,6 @@
 ## Hi I'm Christian 👋
 
-I'm an Australian that likes to experiment with anything tech in my free time. I enjoy programming and I'm experienced with Swift 🏎 and also know a bit of Python 🐍 and Java ☕️. 
-
-I won the 2020 and 2021 Swift Student Challenge with my submissions named PlanetARium and Swift3D, check them out (as well as a few other things I've created) below.
+Hey how are you?! Thanks for checking my GitHub. I'm mostly a Swift dev, but also meddle with other languages every so often. Below you will find a few of the things I've worked on. I hope you find them interesting, please feel free to check them out! I won the Swift Student Challenge in 2020 and 2021 with my submissions named PlanetARium and Swift3D respectively, which was pretty cool!
 
 ![Christians's GitHub stats](https://github-readme-stats.vercel.app/api?username=priva28&count_private=false)
 
