@@ -1,8 +1,21 @@
-## Hi I'm Christian 👋
+### hi there, hope you're doing well. welcome to my github...
 
-Hey how are you?! Thanks for checking my GitHub. I'm mostly a Swift dev, but also meddle with other languages every so often. Below you will find a few of the things I've worked on. I hope you find them interesting, please feel free to check them out! I won the Swift Student Challenge in 2020 and 2021 with my submissions named PlanetARium and Swift3D respectively, which was pretty cool!
+#
 
-![Christians's GitHub stats](https://github-readme-stats.vercel.app/api?username=priva28&count_private=false)
+My name is Christian and here are a few things about me:
+
+
+⚡️ i'm a developer focused on swift and apple platforms, but with experience across a range of languages and platforms.
+
+☄️ right now i'm working on [**hyper online**](), and just released my own app on the app store called [**quanta**](quantavinyl.app).
+
+🎉 i participated in and won the swift student challenge in 2020 and 2021.
+
+#
+
+below you'll find some of the cool little things i've worked on over the past while. hope you enjoy them!
+
+![Christians's GitHub stats](https://github-readme-stats.vercel.app/api?username=priva28&count_private=true&show_icons=true&theme=blueberry)
 
 <!--
 **Priva28/Priva28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
