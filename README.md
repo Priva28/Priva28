@@ -5,11 +5,13 @@
 My name is Christian and here are a few things about me:
 
 
-⚡️ i'm a developer focused on swift and apple platforms, but with experience across a range of languages and platforms.
+⚡️  i'm a developer focused on swift and apple platforms, but with experience across a range of languages and platforms.
 
-☄️ right now i'm working at [**hyper online**](hyper.online) as an iOS developer, and just released my own app on the app store called [**quanta**](quantavinyl.app).
+☄️  right now i'm working at [**hyper online**](hyper.online) as an iOS developer, and just released my own app on the app store called [**quanta**](quantavinyl.app).
 
-🎉 i participated in and won the swift student challenge in 2020 and 2021.
+💛  i love and have a great appreciation for beautifully designed user experiences and software.
+
+🎉  i participated in and won the swift student challenge in 2020 and 2021.
 
 #
 
