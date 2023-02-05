@@ -15,7 +15,7 @@ My name is Christian and here are a few things about me:
 
 below you'll find some of the cool little things i've worked on over the past while. hope you enjoy them!
 
-![Christians's GitHub stats](https://github-readme-stats.vercel.app/api?username=priva28&count_private=true&show_icons=true&theme=blueberry)
+![Christians's GitHub stats](https://github-readme-stats.vercel.app/api?username=priva28&count_private=true&show_icons=true&theme=blueberry&border_radius=8&card_width=750)
 
 <!--
 **Priva28/Priva28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
