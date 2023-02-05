@@ -7,7 +7,7 @@ My name is Christian and here are a few things about me:
 
 ⚡️ i'm a developer focused on swift and apple platforms, but with experience across a range of languages and platforms.
 
-☄️ right now i'm working on [**hyper online**](), and just released my own app on the app store called [**quanta**](quantavinyl.app).
+☄️ right now i'm working at [**hyper online**](hyper.online) as an iOS developer, and just released my own app on the app store called [**quanta**](quantavinyl.app).
 
 🎉 i participated in and won the swift student challenge in 2020 and 2021.
 
@@ -15,7 +15,7 @@ My name is Christian and here are a few things about me:
 
 below you'll find some of the cool little things i've worked on over the past while. hope you enjoy them!
 
-![Christians's GitHub stats](https://github-readme-stats.vercel.app/api?username=priva28&count_private=true&show_icons=true&theme=blueberry&border_radius=8&card_width=750)
+![🌱 Christians's GitHub stats](https://github-readme-stats.vercel.app/api?username=priva28&count_private=true&show_icons=true&theme=blueberry&border_radius=8&card_width=750&custom_title=🌱%20Christian's%20Github%20stats)
 
 <!--
 **Priva28/Priva28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
