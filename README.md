@@ -2,14 +2,14 @@
 
 #
 
-I'm Christian and here are a few things about me:
+i’m christian — here are a few things about me:
 
 
-⚡️  i'm focused on swift and apple platforms atm, but have experience across a range of languages and platforms.
+⚡️  i’m focused on swift and apple platforms right now, but i work across a range of languages, frameworks, and platforms.
 
-☄️  right now i'm working on [**hyper online**](https://hyper.online), and just released my own app on the app store called [**quanta**](https://quantavinyl.app).
+☄️  right now i'm working at [**hyper online**](https://hyper.online). i have 2 apps on the app store - [**quanta**](https://quantavinyl.app) & [**supercut**](https://supercut.vision).
 
-💛  i love and have a great appreciation for beautifully designed user experiences and software.
+💛  i love thoughtful design, creative interfaces, and building things that feel fun and intuitive to use.
 
 🎉  i participated in and won the swift student challenge in 2020 and 2021.
 
